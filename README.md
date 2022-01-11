@@ -78,6 +78,7 @@ def cetak_hasil_pencarian():
         print("Datanya {0} Tidak Ada ".format(nama))
 ```
 # Source Code input_nilai.py
+```python
 def input_nama():
     global nama
     nama = input("Masukkan Nama        : ")
