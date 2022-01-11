@@ -137,4 +137,4 @@ while True:
         print("Menu yang anda maksud tidak tersedia, Silahkan pilih menu yang tersedia")
 ```
 # Screenshot hasil
-![ss](ss/Screenshot (15).png)
+![ss](ss/Screenshot%20(15).png)
